@@ -1,2 +1,2 @@
 # TinDog
-Practice project for web-dev course. Click <a href= "https://lautarc01.github.io/TinDog/" target= _blank> here </a>
+Practice project for web-dev course. Click <a href= "https://lautarc01.github.io/TinDog/" target="_blank"> here </a>
